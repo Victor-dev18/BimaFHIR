@@ -1,0 +1,15 @@
+# Environments
+.env
+backend/venv/
+backend/__pycache__/
+
+# Node
+frontend/node_modules/
+frontend/.next/
+
+# Temporary files
+backend/temp_uploads/
+*.pdf
+
+# OS generated files
+.DS_Store
